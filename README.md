@@ -66,4 +66,4 @@
 
 
 
-    Live Deploy Link: https://netflixgpt-b02c1.web.app
+    Live Deploy Link: https://transcendent-arithmetic-87e068.netlify.app/
